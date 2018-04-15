@@ -1,0 +1,46 @@
+#footer {
+    position: fixed;
+    bottom: 0;
+    padding: 10px;
+    border-radius: 0 15px 0 0;
+}
+
+#footer p {
+    margin-bottom: 0px;
+}
+
+.alert-box {
+    position: fixed;
+    top: 90px;
+    right: 15px;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;  
+    z-index: 1;
+}
+
+.success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    display: none;
+}
+
+img.socialz {
+    opacity: 0.8;
+    transition: 0.5s;
+}
+
+img.socialz:hover {
+    opacity: 1.0;
+    -webkit-transform: scale(1.25, 1.25);
+    -box-transform: scale(1.25, 1.25);
+    transform: scale(1.25, 1.25);
+}
+
+img.socialz {
+    width: 25px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
