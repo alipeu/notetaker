@@ -1,6 +1,6 @@
-Tugas Individu RPL - CRUD
-Alif Hilmi Akbar
-G64160074
+<p><strong>Tugas Individu RPL - CRUD</strong></p>
+<p align="center">Alif Hilmi Akbar</p>
+<p align="center">G64160074</p>
 
 <!--
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
