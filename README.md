@@ -2,8 +2,7 @@
 
 <p align="center"><img src="http://alif-g64160074.herokuapp.com/assets/notes.png"></p>
 <p align="center"><strong>Note-taker</strong></p>
-<p align="center">Alif Hilmi Akbar</p>
-<p align="center">G64160074</p>
+<p align="center">Alif Hilmi Akbar - G64160074</p>
 
 <!--
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
