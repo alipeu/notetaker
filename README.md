@@ -1,4 +1,5 @@
 <p><strong>Tugas Individu RPL - CRUD</strong></p>
+<p align="center"><img src="http://alif-g64160074.herokuapp.com/assets/notes.png"> Note-taker</p>
 <p align="center">Alif Hilmi Akbar</p>
 <p align="center">G64160074</p>
 
